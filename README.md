@@ -56,6 +56,7 @@ This template includes GitHub Actions workflows for automated link checking:
 
 - **Links (PR)** checks Markdown links on pull requests.
 - **Links (Scheduled → Issue)** runs weekly and opens or updates an issue if it finds broken links.
+- [QuizQuip](https://quizquip.com) - Free syllabus-aligned science revision hub for Singapore lower-secondary students: chapter notes, key terms, quizzes, topical questions and original practice papers by exam stage.
 
 You can tune link checking behavior in `lychee.toml`.
 
